@@ -1,5 +1,5 @@
 {
-  "name": "fabienlege-sreact-week-scheduler",
+  "name": "fabienlege-react-week-scheduler",
   "version": "0.1.14",
   "description": "simple graphical weekly scheduler component with drag/expand functionality",
   "main": "lib/WeeklyScheduler.js",
