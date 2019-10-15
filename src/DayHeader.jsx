@@ -6,32 +6,32 @@ function DayHeader() {
       <tr>
         <th />
         <th>
-          <span className="long">Monday</span>
-          <span className="short">Mon</span>
+          <span className="long">Lundi</span>
+          <span className="short">Lun</span>
         </th>
         <th>
-          <span className="long">Tuesday</span>
-          <span className="short">Tue</span>
+          <span className="long">Mardi</span>
+          <span className="short">Mar</span>
         </th>
         <th>
-          <span className="long">Wednesday</span>
-          <span className="short">Wed</span>
+          <span className="long">Mercredi</span>
+          <span className="short">Mer</span>
         </th>
         <th>
-          <span className="long">Thursday</span>
-          <span className="short">Thu</span>
+          <span className="long">Jeudi</span>
+          <span className="short">Jeu</span>
         </th>
         <th>
-          <span className="long">Friday</span>
-          <span className="short">Fri</span>
+          <span className="long">Vendredi</span>
+          <span className="short">Ven</span>
         </th>
         <th>
-          <span className="long">Saturday</span>
-          <span className="short">Sat</span>
+          <span className="long">Samedi</span>
+          <span className="short">Sam</span>
         </th>
         <th>
-          <span className="long">Sunday</span>
-          <span className="short">Sun</span>
+          <span className="long">Dimanche</span>
+          <span className="short">Dim</span>
         </th>
       </tr>
     </thead>
